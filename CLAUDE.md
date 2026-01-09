@@ -87,3 +87,6 @@ Optional LangSmith tracing:
 - Flask runs in debug mode by default on host 0.0.0.0
 - LangChain agents use verbose mode for debugging
 - No unit tests are currently implemented despite pytest being mentioned
+
+## Personal memories
+- I like to eat pizza.
